@@ -78,9 +78,6 @@ syt-hw-edge-gc7.fe.gc.onl
 syt-hw-edge-gc6.fe.gc.onl
 syt-hw-edge-gc5.fe.gc.onl
 syt-hw-edge-gc4.fe.gc.onl
-hk2-tms-2s.fe.gc.onl
-hk2-tms-1.fe.gc.onl
-hk2-hw-edge-preprod-gc20.fe.gc.onl
 hk2-hw-edge-gc18.fe.gc.onl
 hk2-hw-edge-gc17.fe.gc.onl
 hk2-hw-edge-gc16.fe.gc.onl
