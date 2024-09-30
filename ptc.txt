@@ -91,17 +91,6 @@ mlt-hw-edge-gc10.fe.gc.onl
 mca-hw-edge-gc12.fe.gc.onl
 mca-hw-edge-gc11.fe.gc.onl
 mca-hw-edge-gc10.fe.gc.onl
-mi2-s-kaltura-gc54.fe.gc.onl
-mi2-s-kaltura-gc53.fe.gc.onl
-mi2-s-kaltura-gc52.fe.gc.onl
-mi2-ds-gc12.fe.gc.onl
-mi2-ds-gc11.fe.gc.onl
-mi1-hw-edge-gc9.fe.gc.onl
-mi1-hw-edge-gc8.fe.gc.onl
-mi1-hw-edge-gc7.fe.gc.onl
-mi1-hw-edge-gc6.fe.gc.onl
-mi1-hw-edge-gc5.fe.gc.onl
-mi1-hw-edge-gc4.fe.gc.onl
 mi1-hw-edge-gc37.fe.gc.onl
 mi1-hw-edge-gc36.fe.gc.onl
 mi1-hw-edge-gc35.fe.gc.onl
